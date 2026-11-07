@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/light_vehicle_sales.csv
+outputs/*
+!outputs/README.md
+*.py[cod]

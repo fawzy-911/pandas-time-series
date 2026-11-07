@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FRED series source and notes
+    url: https://fred.stlouisfed.org/series/LTOTALNSA
+    about: Check the source series, units, revision notes, and citation before reporting a data discrepancy.
